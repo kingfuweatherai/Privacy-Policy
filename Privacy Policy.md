@@ -10,7 +10,7 @@
 
 <h2>Information Collection and Use</h2>
 
-<p>For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you. Furthermore, we wont collect data without your permission. For example if location permission is not allowed, then location data is not collected. Moreover, your location data is essential to automatically update your current location and allow Open Meteo Weather and BigCloudData Reverse Geocoding API to work to get the data needed to be displayed.</p>
+<p>For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you. Furthermore, we wont collect your personal data without your permission. For example if location permission is not allowed, then location data is not collected. Moreover, your location data is essential to automatically update your current location and allow Open Meteo Weather and BigCloudData Reverse Geocoding API to work to get the data needed to be displayed.</p>
 
 
 <h2>Log Data</h2>
